@@ -1,0 +1,3 @@
+name: strapi-blog
+runtime: nodejs
+description: Strapi Blog deployed to GCP using Pulumi
